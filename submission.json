@@ -1,6 +1,0 @@
-{
-  "prompt": "A surreal photorealistic image, eye-level, dusk light in a foggy forest. A lone figure stands in a small clearing. Around them, the ground is bare and quiet — only a few faint footpaths lead away from where they stand, disappearing into the fog toward three distant figures. Each of those three distant figures stands in their own clearing, but their clearings are dense with converging footpaths — dozens of worn trails arriving from all directions out of the darkness, like a crossroads that the whole forest has been walking toward for years. The central figure's clearing is sparse. Each neighbor's clearing is a nexus. No glowing lines, no beams, no threads — only the physical evidence of where people have walked, worn into the earth. No text, no labels, no numbers. Negative prompt: glowing lines, light beams, threads, neon, graph edges, network diagram, text, numbers, labels",
-  "model": "DALL-E 3 via ChatGPT",
-  "paradox": "The Friendship Paradox",
-"visual_logic": "A lone figure stands at a sparse clearing with few paths out; each neighbor stands at a dense nexus of converging trails from many directions; the viewer sees the local minimum the central figure cannot."
-}
